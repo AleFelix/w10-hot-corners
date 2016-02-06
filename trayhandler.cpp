@@ -538,7 +538,7 @@ void popupWindowNS::setKeysValues(int clickedCorner) {
 }
 
 void popupWindowNS::setCustomShortcut() {
-    int i, j, k, selection;
+    int i, j, k = 0, selection;
     bool repeatedKeys[NUM_KEYS_SHORTCUT];
     memset(&repeatedKeys, false, sizeof(bool) * NUM_KEYS_SHORTCUT);
     std::string keyValuesString;
