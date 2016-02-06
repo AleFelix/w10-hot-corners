@@ -1,0 +1,5 @@
+#include "resource.h"
+
+IMG1 BITMAP "Desktop.bmp"
+ICO1 ICON DISCARDABLE "tray-icon.ico"
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "W10HC.manifest"

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<corners>
+    <corner id="1">
+        <enabled>1</enabled>
+        <custom>0</custom>
+        <option>0</option>
+        <custom_s>2-4-0-0-0-0</custom_s>
+    </corner>
+    <corner id="2">
+        <enabled>1</enabled>
+        <custom>0</custom>
+        <option>2</option>
+        <custom_s>1-2-8-0-0-0</custom_s>
+    </corner>
+    <corner id="3">
+        <enabled>1</enabled>
+        <custom>0</custom>
+        <option>7</option>
+        <custom_s>4-0-0-0-0-0</custom_s>
+    </corner>
+    <corner id="4">
+        <enabled>0</enabled>
+        <custom>0</custom>
+        <option>3</option>
+        <custom_s>8-23-35-26-0-0</custom_s>
+    </corner>
+</corners>

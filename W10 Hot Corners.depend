@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1454513002 source:c:\users\ale\codeblockworkspace\w10 hot corners\main.cpp
+	"controller.h"
+
+1454384996 c:\users\ale\codeblockworkspace\w10 hot corners\settingsview.h
+	<tchar.h>
+	<windows.h>
+
+1454789936 source:c:\users\ale\codeblockworkspace\w10 hot corners\mousehandler.cpp
+	"mousehandler.h"
+	"keypresser.h"
+
+1454790244 source:c:\users\ale\codeblockworkspace\w10 hot corners\mouselistener.cpp
+	"mouselistener.h"
+	"mousehandler.h"
+
+1454793325 source:c:\users\ale\codeblockworkspace\w10 hot corners\trayhandler.cpp
+	"trayhandler.h"
+
+1454316653 source:c:\users\ale\codeblockworkspace\w10 hot corners\settingsview.cpp
+	"settingsview.h"
+
+1454694865 c:\users\ale\codeblockworkspace\w10 hot corners\mouselistener.h
+	<windows.h>
+	<stdio.h>
+	"controller.h"
+
+1454789162 c:\users\ale\codeblockworkspace\w10 hot corners\mousehandler.h
+	<windows.h>
+	<stdio.h>
+	<memory>
+	"keypresser.h"
+	"controller.h"
+
+1454780869 c:\users\ale\codeblockworkspace\w10 hot corners\keypresser.h
+	<windows.h>
+	<utility>
+
+1454780607 source:c:\users\ale\codeblockworkspace\w10 hot corners\keypresser.cpp
+	"keypresser.h"
+
+1454793082 c:\users\ale\codeblockworkspace\w10 hot corners\trayhandler.h
+	<windows.h>
+	<windowsx.h>
+	<shellapi.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"resource.h"
+	"controller.h"
+
+1454523631 source:c:\users\ale\codeblockworkspace\w10 hot corners\resource.rc
+	"resource.h"
+
+1454777608 c:\users\ale\codeblockworkspace\w10 hot corners\controller.h
+	"mouselistener.h"
+	"trayhandler.h"
+	"confighandler.h"
+	"mousehandler.h"
+
+1454790263 source:c:\users\ale\codeblockworkspace\w10 hot corners\controller.cpp
+	"controller.h"
+
+1454508381 source:c:\users\ale\codeblockworkspace\w10 hot corners\lib\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+
+1454508399 c:\users\ale\codeblockworkspace\w10 hot corners\lib\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<android/log.h>
+	<assert.h>
+
+1454792054 source:c:\users\ale\codeblockworkspace\w10 hot corners\confighandler.cpp
+	"confighandler.h"
+
+1454767800 c:\users\ale\codeblockworkspace\w10 hot corners\confighandler.h
+	<windows.h>
+	<stdio.h>
+	<string>
+	<sstream>
+	"lib/tinyxml2.h"
+	"controller.h"
+
+1454694871 c:\users\ale\codeblockworkspace\w10 hot corners\resource.h
+	<windows.h>
+	<shellapi.h>
+
